@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arti-0
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, C and Shell
 - 💞️ I’m looking to collaborate on anything as long as you pay me
 - 📫 How to reach me : a_bodin2@etu-webschoolfactory.fr
 
