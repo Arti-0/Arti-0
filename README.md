@@ -1,18 +1,14 @@
-<img src="assets/firm-hand-waving.png" width="64" alt="" />
+![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=520&lines=Full-stack+developer+%E2%80%94+TypeScript;Designer+of+the+interfaces+I+ship;AI-augmented+by+default)
 
-# Andréas Bodin
+<img src="assets/firm-hand-waving.png" width="110" align="right" alt="" />
 
-![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=520&lines=Full-stack+developer+%E2%80%94+TypeScript;Co-founder+%26+CTO+%40+Andoxa;AI-augmented+by+default)
-
-I build products end to end — a B2B SaaS in production (Next.js · Convex ·
-Clerk · AI agents), the tooling that orchestrates my coding agents, and the
-design in between.
+Builder at heart — developer, designer and founder. I take products from the
+first sketch to the shipped system: the interface, the code, and the
+infrastructure underneath. Full-stack TypeScript, applied AI, and a taste for
+interfaces with character. I work AI-augmented by default — coding agents,
+orchestrated with tooling I build myself.
 
 **Contact** → andreas.bodin8@gmail.com
-
-<img src="assets/tech-pulse-dotted-line.gif" width="100%" alt="" />
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="380" alt="Debugging mode" />
 
 <img src="assets/tech-pulse-dotted-line.gif" width="100%" alt="" />
 
