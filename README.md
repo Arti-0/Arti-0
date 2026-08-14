@@ -8,6 +8,7 @@ infrastructure underneath. Full-stack TypeScript, applied AI, and a taste for
 interfaces with character. I work AI-augmented by default — coding agents,
 orchestrated with tooling I build myself.
 
+**Portfolio** → [portfolio-sable-sigma-89.vercel.app](https://portfolio-sable-sigma-89.vercel.app)
 **Contact** → andreas.bodin8@gmail.com
 
 <img src="assets/tech-pulse-dotted-line.gif" width="100%" alt="" />
