@@ -9,7 +9,12 @@ interfaces with character. I work AI-augmented by default — coding agents,
 orchestrated with tooling I build myself.
 
 **Portfolio** → [andreas-bodin.vercel.app](https://andreas-bodin.vercel.app)
-**Writing** → [Where agent-job time goes](https://dev.to/arti0/where-the-time-actually-goes-in-an-ai-coding-agent-job-13ei) · [Can your verify gate fail?](https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4) · [LLM runner concurrency](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)
+
+**Writing** → 
+[Where agent-job time goes](https://dev.to/arti0/where-the-time-actually-goes-in-an-ai-coding-agent-job-13ei) 
+[Can your verify gate fail?](https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4) 
+[LLM runner concurrency](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)
+
 **Contact** → andreas.bodin8@gmail.com
 
 <img src="assets/tech-pulse-dotted-line.gif" width="100%" alt="" />
