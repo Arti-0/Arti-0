@@ -11,6 +11,13 @@ orchestrated with tooling I build myself.
 **Portfolio** → [andreas-bodin.vercel.app](https://andreas-bodin.vercel.app)
 **Contact** → andreas.bodin8@gmail.com
 
+## Writing
+
+Engineering notes from my agent tooling — measured, not vibes → [dev.to/arti0](https://dev.to/arti0)
+- *Where the time actually goes in an AI coding-agent job*
+- *Can your verify gate actually fail?*
+- *Measuring the real concurrency ceiling of an LLM agent runner*
+
 <img src="assets/tech-pulse-dotted-line.gif" width="100%" alt="" />
 
 <picture>
